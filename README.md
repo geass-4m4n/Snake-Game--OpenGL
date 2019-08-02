@@ -1,6 +1,6 @@
 # SnakeGL
 Popular snake game in C
-![alt tag](https://github.com/anubhawbhalotia/SnakeGL/blob/master/Screenshots/Screenshot%20Version%201.0.png)
+![alt tag](https://github.com/geass-4m4n/Snake-Game--OpenGL/blob/master/Screenshots/1s.png)
 
 ## COMPILE INSTUCTIONS
  
